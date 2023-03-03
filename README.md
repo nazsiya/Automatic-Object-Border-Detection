@@ -44,4 +44,5 @@ Add a feature to process multiple images at once
 
 # Contributors
 Mohamed Naajim
+
 If you have any questions or suggestions, feel free to contact me at mohamednaajim98@gmail.com. Thank you for using our Automatic Object Border Detection project!
